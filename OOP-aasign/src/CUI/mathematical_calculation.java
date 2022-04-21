@@ -1,3 +1,5 @@
+package  CUI;
+
 import java.util.Scanner;
 
 public class mathematical_calculation {

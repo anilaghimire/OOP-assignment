@@ -1,4 +1,4 @@
-
+package  CUI;
 import java.util.Scanner;
 
 public class sum_product {

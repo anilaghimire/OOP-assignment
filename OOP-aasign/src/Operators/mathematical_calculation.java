@@ -1,3 +1,4 @@
+package  Operators;
 public class mathematical_calculation {
     public static void main(String[] args) {
         double principle = 10000;
